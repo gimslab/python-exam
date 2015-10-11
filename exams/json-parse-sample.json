@@ -1,0 +1,28 @@
+{	
+        "snapshot" : {
+		"repos" : "mingnewbie.tistory.com/repositories/snapshots",
+		"userid" : "mingnewbie",
+		"passwd" : "1234"
+	},
+	"release" : {
+		"repos" : "mingnewbie.tistory.com/repositories/release",
+		"userid" : "mingnewbie",
+		"passwd" : "5678"
+	},
+	"component" : {
+		"test":"mingnewbie.tistory.com",
+		"arrayTest" : ["arr1", "arr2", "arr3"]
+	},
+	"releaseHistory" : [
+		{"release" : {
+			"repos" : "repo1",
+			"userid" : "uid1",
+			"passwd" : "pwd1"
+		}},
+		{"release" : {
+			"repos" : "repo2",
+			"userid" : "uid2",
+			"passwd" : "pwd2"
+		}}
+	]
+}
